@@ -1,8 +1,10 @@
 # Crud react - Localstorage
 Se uso:
+```sh
 localstorage para la data
 Sass como procesador de css
 react-router-dom
+```
 ## Demo
 https://crud-react-gnxcode.netlify.app/
 ## Instalar en localhost
